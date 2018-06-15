@@ -149,7 +149,7 @@ async def help_message(message, app):
                     'value': 'Share the link to that github repo. User default to `pyslackers`.',
                 },
                 {
-                    'title': 's$TCKR',
+                    'title': 's$TICKER',
                     'value': 'Retrieve today\'s prices for the provided stock ticker.',
                 },
             ]
