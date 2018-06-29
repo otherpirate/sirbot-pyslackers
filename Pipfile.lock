@@ -218,9 +218,9 @@
     "develop": {
         "ansible": {
             "hashes": [
-                "sha256:d7e5aae60c0e76c824bf8a410fe247b5c4afcfaee272f6283b4f996d237e365a"
+                "sha256:3550bf16bf2c34cc88bf3870e91b836e44c1c288d148968c4d855dae2560faf5"
             ],
-            "version": "==2.5.5"
+            "version": "==2.6.0"
         },
         "asn1crypto": {
             "hashes": [
