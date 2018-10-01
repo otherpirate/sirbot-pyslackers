@@ -285,11 +285,10 @@
         },
         "slack-sansio": {
             "hashes": [
-                "sha256:73af09535400b0efb095e9e37759d87947c42e47975340995478325bb81a9191",
-                "sha256:ed5952da6e6c327b95e9987846fcbef42b379773a125c0616cf1072ff8ea3be6"
+                "sha256:cda6f5cb4ca27d5ab1bc327c3ee879458a200ecbeb2e837d49be7ab8d0b53f9b",
+                "sha256:4803aa9472d2a3353df93012ee9e78a06c2561353ba1f694ab6c41db58f23d1c"
             ],
-            "index": "pypi",
-            "version": "==0.5.1"
+            "version": "==0.6.1"
         },
         "uritemplate": {
             "hashes": [
